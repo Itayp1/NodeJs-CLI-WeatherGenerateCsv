@@ -6,7 +6,7 @@
 Use the package manager npm  install all the dependencies.
 
 ```npm
-npm isntall
+npm i
 ```
 
 ## Usage
@@ -14,7 +14,3 @@ npm isntall
 ```node
 npm start
 
-another way 
-
-node index.js
-```
